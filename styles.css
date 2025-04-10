@@ -2,3 +2,10 @@ body{
     background-image: url('candle.png');
     background-repeat: no-repeat;
 }
+label{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 200px;
+}
