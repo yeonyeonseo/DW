@@ -1,4 +1,5 @@
 body{
+    align-content: center;
     background-image: url('candle.png');
     background-repeat: no-repeat;
 }
